@@ -15,17 +15,14 @@ role: Undergraduate Student
 # Organizations/Affiliations
 organizations:
 - name: Peking University
-  url: "//pku.edu.cn"
+  url: "//english.pku.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a pre-final year undergraduate student at the *Turing Class* (honored Class for computer science) of Peking University, China, advised by Prof. [Liwei Wang](https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=en). I had research experiences in self-supervised language pre-training, machine translation, ML for healthcare, and optimization algorithms. I am interested in developing practical machine learning algorithms. I am applying to Ph.D. in computer science for Fall 2020.
 
 interests:
 - Self-supervised learning/pre-training
-- Application of deep sequence models
-  - Machine translation
-  - neural program synthesis
-  - question answering 
+- Application of deep sequence models: machine translation, neural program synthesis, question answering 
 - Fast neural network training
 - ML in healthcare, education, games, etc.
 
