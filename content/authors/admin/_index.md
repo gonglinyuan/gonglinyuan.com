@@ -22,7 +22,7 @@ bio: I am a pre-final year undergraduate student at the *Turing Class* (honored 
 
 interests:
 - Self-supervised learning
-- Application of deep sequence models: machine translation, neural program synthesis, question answering
+- Application of deep sequence models (machine translation, neural program synthesis, question answering)
 - Fast neural network training
 - ML in healthcare, education, games, etc.
 
