@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Linyuan Gong
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Peking University
+  url: "pku.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a pre-final year undergraduate student at the *Turing Class* (honored Class for computer science) of Peking University, China, advised by Prof. [Liwei Wang](https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=en). I had research experiences in self-supervised language pre-training, machine translation, ML for healthcare, and optimization algorithms. I am interested in developing practical machine learning algorithms. I am applying to Ph.D. in computer science for Fall 2020.
 
 interests:
 - Artificial Intelligence
