@@ -15,15 +15,19 @@ role: Undergraduate Student
 # Organizations/Affiliations
 organizations:
 - name: Peking University
-  url: "pku.edu.cn"
+  url: "//pku.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a pre-final year undergraduate student at the *Turing Class* (honored Class for computer science) of Peking University, China, advised by Prof. [Liwei Wang](https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=en). I had research experiences in self-supervised language pre-training, machine translation, ML for healthcare, and optimization algorithms. I am interested in developing practical machine learning algorithms. I am applying to Ph.D. in computer science for Fall 2020.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Self-supervised learning/pre-training
+- Application of deep sequence models
+  - Machine translation
+  - neural program synthesis
+  - question answering 
+- Fast neural network training
+- ML in healthcare, education, games, etc.
 
 education:
   courses:
@@ -70,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a pre-final year undergraduate student at the *Turing Class* (honored Class for computer science) of Peking University, China, advised by Prof. [Liwei Wang](https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=en).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I had research experiences in self-supervised language pre-training, machine translation, ML for healthcare, and optimization algorithms. I am interested in developing practical machine learning algorithms. I am applying to Ph.D. in computer science for Fall 2020.
