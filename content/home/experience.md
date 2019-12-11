@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   company_url = "//www.microsoft.com/en-us/research/lab/microsoft-research-asia/"
   location = "Beijing, China"
   date_start = "2019-05-25"
-  date_end = "Present"
+  date_end = ""
   description = """Advised by [Liwei Wang](https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=zh-CN)
 - Proposed a Gram-Gauss-Newton optimization algorithm that converges better than SGD/Adam, where I sped up training by 3.5x by writing CUDA kernels and designed a communication algorithm that enables large-scale distributed training.
 - Earlier results on small regression tasks: [arxiv.org/abs/1905.11675](arxiv.org/abs/1905.11675)
