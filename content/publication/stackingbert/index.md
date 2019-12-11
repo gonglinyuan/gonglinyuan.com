@@ -8,7 +8,7 @@ authors: [
     "Zhuohan Li",
     "Tao Qin",
     "Liwei Wang",
-    "Tieyan Liu"
+    "Tie-Yan Liu"
 ]
 date: 2019-06-15T00:00:00+00:00
 doi: ""

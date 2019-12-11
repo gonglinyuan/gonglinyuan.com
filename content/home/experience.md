@@ -18,18 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Research Intern"
+  company = "Microsoft Research Asia"
+  company_url = "//www.microsoft.com/en-us/research/lab/microsoft-research-asia/"
+  location = "Beijing, China"
+  date_start = "2018-07-10"
+  date_end = "2019-06-07"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Researched self-supervised pre-training for natural languages.
+  * Proposed a faster and more computationally efficient pre-training algorithm for BERT. Reproduced BERT before Google released its code. Wrote 6,800 lines of code and ran large-scale experiments for 10,000 GPU-hours. Published our results on ICML 2019.
+  * Ranked first in four tasks of WMT19 machine translation competition with our new technologies.
   """
 
 [[experience]]
