@@ -81,6 +81,6 @@ user_groups:
 - Visitors
 ---
 
-I am a pre-final year undergraduate student at the *Turing Class* (honored Class for computer science) of Peking University, China, advised by Prof. [Liwei Wang](https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=en).
+I am a pre-final year undergraduate student at the *Turing Class* (honored class for computer science) of Peking University, China, advised by Prof. [Liwei Wang](https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=en).
 
 I had research experiences in self-supervised language pre-training, machine translation, ML for healthcare, and optimization algorithms. I am interested in developing practical machine learning algorithms. I am applying to Ph.D. in computer science for Fall 2020.
