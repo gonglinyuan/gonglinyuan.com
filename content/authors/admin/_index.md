@@ -36,7 +36,7 @@ experience:
   courses:
   - institution: Microsoft Research Asia
     position: Research Intern in Machine Learning Group
-    advise: Di He, Tao Qin, and Jiang Bian
+    advise: Advised by Di He, Tao Qin, and Jiang Bian
     year: Jul. 2018 - Jun. 2019
 
 
