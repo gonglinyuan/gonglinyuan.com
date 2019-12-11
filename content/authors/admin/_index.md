@@ -30,7 +30,7 @@ education:
   courses:
   - course: B.S. in Computer Science (Honored)
     institution: Peking University
-    year: Sept. 2016 - Jun. 2020 (Expected)
+    year: Sept. 2016 - Present
 
 experience:
   courses:
