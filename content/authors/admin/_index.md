@@ -30,7 +30,15 @@ education:
   courses:
   - course: B.S. in Computer Science (Honored)
     institution: Peking University
-    year: Sept. 2016 - June. 2020 (expected)
+    year: Sept. 2016 - Jun. 2020 (Expected)
+
+experience:
+  courses:
+  - institution: Microsoft Research Asia
+    position: Research Intern in Machine Learning Group
+    advise: Di He, Tao Qin, and Jiang Bian
+    year: Jul. 2018 - Jun. 2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
