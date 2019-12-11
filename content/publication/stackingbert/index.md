@@ -15,6 +15,7 @@ doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-12-11T15:55:21+08:00
+venue: "ICML 2019"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
