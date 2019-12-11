@@ -39,7 +39,7 @@ publication_short: "WMT19"
 abstract: "We Microsoft Research Asia made submissions to 11 language directions in the WMT19 news translation tasks. We won the first place for 8 of the 11 directions and the second place for the other three. Our basic systems are built on Transformer, back translation and knowledge distillation. We integrate several of our rececent techniques to enhance the baseline systems: multi-agent dual learning (MADL), masked sequence-to-sequence pre-training (MASS), neural architecture optimization (NAO), and soft contextual data augmentation (SCA)."
 
 # Summary. An optional shortened abstract.
-summary: "Integrate our recent techniques to enhance machine translation systems and won the 1st place for 8 directions and 2nd place for 3."
+summary: "Integrate our recent techniques to enhance machine translation systems and won the 1st place for 8 directions and 2nd place for 3 directions."
 
 tags: []
 categories: []

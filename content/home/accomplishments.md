@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Honors & Services"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,38 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  title = "National Olympiad in Informatics (NOI), China, Gold"
+  type = "Award"
+  date = "Jul. 2015"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  title = "Mathematical Contest in Modeling®(MCM), Finalist (7th place)"
+  type = "Award"
+  date = "Feb. 2018"
+
+[[item]]
+  title = "Star of Tomorrow Award (Top 10% Interns), Microsoft Research Asia"
+  type = "Award"
+  date = "Jun. 2019"
+
+[[item]]
+  title = "Leo Koguan Scholarship (Top 4%)"
+  type = "Scholarship"
+  date = "Sept. 2017"
+
+[[item]]
+  title = "Tang Lixin Scholarship (Top 1%)"
+  type = "Scholarship"
+  date = "Sept. 2018"
+
+[[item]]
+  title = "Teaching Assistant for Data Structures and Algorithms, Peking University"
+  type = "Teach"
+  date = "Fall 2018"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "Assistant Coach for Zhejiang Team in NOI, China"
+  type = "Teach"
+  date = "String 2016"
 
 +++
