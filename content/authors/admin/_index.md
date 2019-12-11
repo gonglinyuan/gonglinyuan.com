@@ -36,17 +36,17 @@ experience:
   courses:
   - institution: Microsoft Research Asia
     position: Research Intern in Machine Learning Group
-    advise: Advised by Di He, Tao Qin, and Jiang Bian
+    advise: Advised by [Di He](https://scholar.google.co.jp/citations?user=orVoz4IAAAAJ&hl=en), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/), and [Jiang Bian](https://sites.google.com/site/jiangbianhome/)
     year: Jul. 2018 - Jun. 2019
    
   - institution: Carnegie Mellon University
     position: Research Intern in Machine Learning Department
-    advise: Advised by Pradeep Ravikumar
+    advise: Advised by [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
     year: Jun. 2019 - Sept. 2019
     
   - institution: Peking University
     position: Research Intern in Key Lab of Machine Perception (MOE)
-    advise: Advised by Liwei Wang
+    advise: Advised by [Liwei Wang](https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=zh-CN)
     year: Sept. 2018 - Present
 
 
@@ -55,18 +55,16 @@ experience:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: //scholar.google.com/citations?user=w5A4QPQAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: //github.com/gonglinyuan
+- icon: linkedin
+  icon_pack: fab
+  link: //www.linkedin.com/in/gonglinyuan/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
