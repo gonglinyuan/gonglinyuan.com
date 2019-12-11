@@ -43,7 +43,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "//proceedings.mlr.press/v97/gong19a/gong19a.pdf"
+url_pdf: "http://proceedings.mlr.press/v97/gong19a/gong19a.pdf"
 url_code: "//github.com/gonglinyuan/StackingBERT"
 url_dataset:
 url_poster:

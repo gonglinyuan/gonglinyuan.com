@@ -1,9 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Wmt19"
-authors: []
-date: 2019-12-11T15:55:26+08:00
+title: "Microsoft Research Asia's Systems for WMT19"
+authors: [
+    "Yingce Xia",
+    "Xu Tan",
+    "Fei Tian",
+    "Fei Gao",
+    "Weicong Chen",
+    "Yang Fan",
+    "Linyuan Gong",
+    "Yichong Leng",
+    "Renqian Luo",
+    "Yiren Wang",
+    "Lijun Wu",
+    "Jinhua Zhu",
+    "Tao Qin",
+    "Tie-Yan Liu"
+]
+
+date: 2019-08-02T00:00:00+00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,13 +29,13 @@ publishDate: 2019-12-11T15:55:26+08:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "WMT19"
+publication_short: "WMT19"
 
-abstract: ""
+abstract: "We Microsoft Research Asia made submissions to 11 language directions in the WMT19 news translation tasks. We won the first place for 8 of the 11 directions and the second place for the other three. Our basic systems are built on Transformer, back translation and knowledge distillation. We integrate several of our rececent techniques to enhance the baseline systems: multi-agent dual learning (MADL), masked sequence-to-sequence pre-training (MASS), neural architecture optimization (NAO), and soft contextual data augmentation (SCA)."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,11 +52,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "//arxiv.org/pdf/1911.06191.pdf"
 url_code:
 url_dataset:
 url_poster:
-url_project:
+url_project: "//news.microsoft.com/apac/2019/05/22/microsoft-research-asia-msra-leads-in-2019-wmt-international-machine-translation-competition/"
 url_slides:
 url_source:
 url_video:
