@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: B.S. Honored in Computer Science
+  - course: B.S. in Computer Science (Honored)
     institution: Peking University
-    year: 2020 (expected)
+    year: Sept. 2016 - June. 2020 (expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
