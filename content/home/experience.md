@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Projects"
+title = "Experiences"
 subtitle = ""
 
 # Date format for experience
@@ -19,24 +19,39 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Intern"
-  company = "Microsoft Research Asia"
+  company = "Machine Learning Group, Microsoft Research Asia"
   company_url = "//www.microsoft.com/en-us/research/lab/microsoft-research-asia/"
   location = "Beijing, China"
   date_start = "2018-07-10"
   date_end = "2019-06-07"
-  description = """
-  * Researched self-supervised pre-training for natural languages.
-  * Proposed a faster and more computationally efficient pre-training algorithm for BERT. Reproduced BERT before Google released its code. Wrote 6,800 lines of code and ran large-scale experiments for 10,000 GPU-hours. Published our results on ICML 2019.
-  * Ranked first in four tasks of WMT19 machine translation competition with our new technologies.
-  """
+  description = """Advised by [Di He](https://scholar.google.co.jp/citations?user=orVoz4IAAAAJ&hl=en), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/), and [Jiang Bian](https://sites.google.com/site/jiangbianhome/)
+- Researched self-supervised pre-training for natural languages.
+- Proposed a faster and more computationally efficient pre-training algorithm for BERT. Reproduced BERT before Google released its code. Wrote 6,800 lines of code and ran large-scale experiments for 10,000 GPU-hours. Published our results on *ICML 2019*.
+- Ranked first in four tasks of WMT19 machine translation competition with our new technologies.
+"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Intern"
+  company = "Machine Learning Department, Carnegie Mellon University"
+  company_url = "//www.ml.cmu.edu"
+  location = "Pittsburgh, United States"
+  date_start = "2019-06-25"
+  date_end = "2019-09-08"
+  description = """Advised by [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
+- Explored multiple approaches for clinical abbreviation expansion. Designed a new self-supervised pre-training algorithm, which outperforms the state-of-the-art on multiple datasets by a large margin, especially when the data is limited. Submitted to *ACL 2020*.
+- Researched the application of machine learning in healthcare.
+"""
+
+[[experience]]
+  title = "Research Intern"
+  company = "Key Lab of Machine Perception (MOE), Peking University"
+  company_url = "//www.microsoft.com/en-us/research/lab/microsoft-research-asia/"
+  location = "Beijing, China"
+  date_start = "2019-05-25"
+  date_end = "Present"
+  description = """Advised by [Liwei Wang](https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=zh-CN)
+- Proposed a Gram-Gauss-Newton optimization algorithm that converges better than SGD/Adam, where I sped up training by 3.5x by writing CUDA kernels and designed a communication algorithm that enables large-scale distributed training.
+- Earlier results on small regression tasks: [arxiv.org/abs/1905.11675](arxiv.org/abs/1905.11675)
+"""
 
 +++
