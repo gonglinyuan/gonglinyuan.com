@@ -38,6 +38,16 @@ experience:
     position: Research Intern in Machine Learning Group
     advise: Advised by Di He, Tao Qin, and Jiang Bian
     year: Jul. 2018 - Jun. 2019
+   
+  - institution: Carnegie Mellon University
+    position: Research Intern in Machine Learning Department
+    advise: Advised by Pradeep Ravikumar
+    year: Jun. 2019 - Sept. 2019
+    
+  - institution: Peking University
+    position: Research Intern in Key Lab of Machine Perception (MOE)
+    advise: Advised by Liwei Wang
+    year: Sept. 2018 - Present
 
 
 # Social/Academic Networking
