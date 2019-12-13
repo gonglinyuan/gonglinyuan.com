@@ -40,8 +40,9 @@ date_format = "Jan 2006"
   date_start = "2019-06-25"
   date_end = "2019-09-08"
   description = """Advised by [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
-- Explored multiple approaches for clinical abbreviation expansion. Designed a new self-supervised pre-training algorithm, which outperforms the state-of-the-art on multiple datasets by a large margin, especially when the data is limited. Submitted to *ACL 2020*.
 - Researched the application of machine learning in healthcare.
+- Developed and evaluated various deep learning methods for clinical abbreviation expansion.
+- Designed a novel self-supervised pre-training algorithm for this task, which outperforms the state-of-the-art on multiple datasets without structured knowledge bases, submitted to ACL 2020.
 """
 
 [[experience]]
@@ -52,8 +53,9 @@ date_format = "Jan 2006"
   date_start = "2019-05-25"
   date_end = ""
   description = """Advised by [Liwei Wang](https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=zh-CN)
-- Proposed a Gram-Gauss-Newton optimization algorithm that converges better than SGD/Adam, where I sped up training by 3.5x by writing CUDA kernels and designed a communication algorithm that enables large-scale distributed training.
-- Earlier results on small regression tasks: [arxiv.org/abs/1905.11675](https://arxiv.org/abs/1905.11675)
+- Proposed a Gram-Gauss-Newton optimization algorithm that converges better than SGD/Adam.
+- Sped up training by 3.5x by writing CUDA kernels, designed a communication algorithm that enables large-scale distributed training.
+- Earlier results on small regression tasks: [https://arxiv.org/abs/1905.11675](https://arxiv.org/abs/1905.11675)
 """
 
 +++
