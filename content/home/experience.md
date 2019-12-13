@@ -26,8 +26,10 @@ date_format = "Jan 2006"
   date_end = "2019-06-07"
   description = """Advised by [Di He](https://scholar.google.co.jp/citations?user=orVoz4IAAAAJ&hl=en), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/), and [Jiang Bian](https://sites.google.com/site/jiangbianhome/)
 - Researched self-supervised pre-training for natural languages.
-- Proposed a faster and more computationally efficient pre-training algorithm for BERT. Reproduced BERT before Google released its code. Wrote 6,800 lines of code and ran large-scale experiments for 10,000 GPU-hours. Published our results on [*ICML 2019*](http://proceedings.mlr.press/v97/gong19a.html).
-- Ranked first in four tasks of WMT19 machine translation competition with our new technologies.
+- Reproduced [BERT](https://arxiv.org/abs/1810.04805) before Google released its code, wrote 6,800 lines of code.
+- Proposed a faster and more computationally efficient pre-training algorithm for BERT, ran large-scale experiments for 10,000 GPU-hours, published our results on [ICML 2019](http://proceedings.mlr.press/v97/gong19a.html).
+- Paper cited by Google [ALBERT](https://arxiv.org/pdf/1909.11942.pdf), codebase used by Bing team to train question-answering systems.
+- Ranked first in four tasks of [WMT19](https://www.aclweb.org/anthology/W19-5348/) machine translation competition with our new technologies.
 """
 
 [[experience]]
